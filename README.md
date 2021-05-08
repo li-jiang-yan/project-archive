@@ -18,3 +18,5 @@ Project Concept Theorist
 * Programmed modified simulations of the game to predict the outcomes of the game.
 * Skills involved: R programming, mathematical modeling
 * Knowledge applied: Freudian psychology 
+
+Link: https://github.com/li-jiang-yan/intro-design-2d-math/blob/master/r-program-code
